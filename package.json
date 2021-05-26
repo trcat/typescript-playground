@@ -1,0 +1,14 @@
+{
+  "name": "typescript-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:trcat/typescript-playground.git",
+  "author": "Henry Hu <daydaybigking@sina.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc index.ts -w"
+  },
+  "dependencies": {
+    "typescript": "^4.2.4"
+  }
+}
