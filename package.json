@@ -6,7 +6,7 @@
   "author": "Henry Hu <daydaybigking@sina.com>",
   "license": "MIT",
   "scripts": {
-    "build": "tsc index.ts -w"
+    "build": "tsc -w"
   },
   "dependencies": {
     "typescript": "^4.2.4"
